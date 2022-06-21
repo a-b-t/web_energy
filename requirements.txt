@@ -39,7 +39,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 more-itertools==7.1.0
 nbformat==4.4.0
-numpy==1.16.4
+numpy==1.22.0
 openpyxl==2.6.2
 packaging==19.0
 pandas==0.24.2
